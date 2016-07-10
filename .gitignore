@@ -10,3 +10,5 @@
 /error.txt
 /test.out.txt
 .DS_Store
+/h2/target
+/h2/*.iml
